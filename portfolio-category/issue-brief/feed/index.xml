@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Issue brief &#8211; Minahil</title>
+	<atom:link href="/portfolio-category/issue-brief/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 12 Feb 2016 19:39:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Skill-Biased Technological Change and Economic Inequality</title>
+		<link>/portfolio-item/sbtc/</link>
+		<comments>/portfolio-item/sbtc/#respond</comments>
+		<pubDate>Wed, 11 Nov 2015 04:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[theadmin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=lato_portfolio&#038;p=181</guid>
+		<description><![CDATA[For the past two decades, skill-biased technological change (SBTC) has been economists’ primary scapegoat for rising wage inequality. The concept that recent technological change, especially in the IT sector, favors those with more skills (that would ostensibly be complemented by this new technology) entails that there will be increased demand and higher wages for those [...]<p><a class="btn btn-primary-color btn-tiny more-btn" href="/portfolio-item/sbtc/">Read More &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<p>For the past two decades, skill-biased technological change (SBTC) has been economists’ primary scapegoat for rising wage inequality. The concept that recent technological change, especially in the IT sector, favors those with more skills (that would ostensibly be complemented by this new technology) entails that there will be increased demand and higher wages for those workers with more skills, while lower-skilled/unskilled labor falls behind. This issue brief examines the validity of these claims.</p>
+]]></content:encoded>
+			<wfw:commentRss>/portfolio-item/sbtc/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

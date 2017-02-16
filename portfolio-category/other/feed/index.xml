@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Other &#8211; Minahil</title>
+	<atom:link href="/portfolio-category/other/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 12 Feb 2016 19:39:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Op-ed: Globalization and the US Manufacturing Sector</title>
+		<link>/portfolio-item/op-ed-globalization-and-the-us-manufacturing-sector/</link>
+		<pubDate>Wed, 11 Nov 2015 04:17:48 +0000</pubDate>
+		<dc:creator><![CDATA[theadmin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=lato_portfolio&#038;p=213</guid>
+		<description><![CDATA[An op-ed on the perhaps unfair depiction of globalization as the thief lord of American manufacturing jobs.]]></description>
+				<content:encoded><![CDATA[<p>An op-ed on the perhaps unfair depiction of globalization as the thief lord of American manufacturing jobs.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Guide to Producing an Effective Toolkit</title>
+		<link>/portfolio-item/guide-to-producing-an-effective-toolkit/</link>
+		<comments>/portfolio-item/guide-to-producing-an-effective-toolkit/#respond</comments>
+		<pubDate>Wed, 11 Nov 2015 04:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[theadmin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=lato_portfolio&#038;p=178</guid>
+		<description><![CDATA[I worked on a joint project with Ashoka Changemakers and Feedback Labs to build a toolkit to help development practitioners (NGOs, researchers, international agencies) implement feedback loops in their work. The staff at both organizations were very aware of how often toolkits end up in the dusty back-corners of the internet or office closet. They [...]<p><a class="btn btn-primary-color btn-tiny more-btn" href="/portfolio-item/guide-to-producing-an-effective-toolkit/">Read More &#8594;</a></p>]]></description>
+				<content:encoded><![CDATA[<p>I worked on a joint project with <a href="https://www.changemakers.com/innovations" target="_blank">Ashoka Changemakers</a> and <a href="http://feedbacklabs.org/" target="_blank">Feedback Labs</a> to build a toolkit to help development practitioners (NGOs, researchers, international agencies) implement feedback loops in their work. The staff at both organizations were very aware of how often toolkits end up in the dusty back-corners of the internet or office closet. They wanted to create an engaging and effective tool for their users, especially given that the toolkit was about effective feedback loops. The toolkit is now live <a href="http://feedbacklabs.org/toolkit/" target="_blank">here</a>. After spending the summer researching and testing the structure, presentation, and content of the toolkit, I created this guide to building effective toolkits.</p>
+]]></content:encoded>
+			<wfw:commentRss>/portfolio-item/guide-to-producing-an-effective-toolkit/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
